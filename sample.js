@@ -1,2 +1,2 @@
 console.log("javascript");
-console.log("playwright is modern architecture based tool");
+console.log("selenium is a traditional tool")
